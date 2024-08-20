@@ -1,1 +1,1 @@
-Advanced C Programming and Lab in 2nd semester
+Advanced C Programming and Lab in second semester
