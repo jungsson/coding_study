@@ -1,1 +1,1 @@
-겨울방학에 행한 C 스터디
+***C study before 1st semester***
